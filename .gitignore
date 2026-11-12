@@ -1,0 +1,13 @@
+/.venv/
+/build/
+/dist/
+/data/raw/
+/experiments/
+/outputs/
+/results/
+*.egg-info/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.DS_Store
+Thumbs.db

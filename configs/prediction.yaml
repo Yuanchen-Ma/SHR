@@ -1,0 +1,54 @@
+experiment:
+  rul_cap: 125
+paths:
+  raw_data_dir: data/raw/CMAPSSData
+split:
+  outer_test_fraction: 0.2
+  threshold_cal_fraction_of_remaining: 0.18
+  inner_folds: 5
+  early_stop_fraction: 0.12
+preprocessing:
+  variance_threshold: 1.0e-08
+  n_condition_clusters: 1
+  min_cluster_samples: 100
+  scaler_epsilon: 1.0e-06
+  include_delta_t: true
+windowing:
+  window_length: 30
+  train_stride: 1
+  inspection_stride: 5
+  max_train_windows_per_unit: 160
+  max_eval_windows_per_unit: 30
+corruption:
+  seen_severities:
+  - low
+  - medium
+  types:
+  - burst_missing
+  - channel_dropout
+  - gradual_bias
+model:
+  architecture: tcn
+  tcn:
+    channels: 64
+    kernel_size: 3
+    dilations:
+    - 1
+    - 2
+    - 4
+  dropout: 0.1
+  quantiles:
+  - 0.1
+  - 0.9
+  quantile_loss_weight: 0.5
+  batch_size: 256
+  learning_rate: 0.001
+  weight_decay: 0.0001
+  max_epochs: 100
+  early_stop_patience: 12
+  gradient_clip_norm: 1.0
+  ensemble_size: 3
+  num_workers: 0
+risk:
+  severe_delta: 10
+  critical_horizon: 30

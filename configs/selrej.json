@@ -1,0 +1,17 @@
+{
+  "architecture": "64-unit ReLU hidden layer and scalar logit",
+  "learning_rates": [
+    0.001,
+    0.003,
+    0.01
+  ],
+  "steps": [
+    75,
+    150,
+    300
+  ],
+  "target_coverage": 0.8,
+  "coverage_penalty": 200.0,
+  "fitting": "Squared-error selective risk with equal-engine weights, a training-only StandardScaler and full-batch Adam.",
+  "selection": "Minimum mean validation A_lambda at lambda=20 over 70%-90% coverage, same disjoint validation engines as the other methods. Ties use candidate ID. Test outcomes do not select settings."
+}

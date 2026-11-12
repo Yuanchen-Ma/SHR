@@ -1,0 +1,14 @@
+history:
+  window_length: 30
+  cap_guard: 120
+  lookback: 90
+  decay_cycles: 45
+model:
+  n_estimators: 300
+  max_depth: 3
+  learning_rate: 0.04
+  min_child_weight: 20
+  subsample: 0.8
+  colsample_bytree: 1.0
+  reg_lambda: 10.0
+  n_jobs: 4

@@ -1,0 +1,4159 @@
+{
+  "jobs": [
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD001",
+      "architecture": "tcn",
+      "seed": 20261011,
+      "protocol": "matched",
+      "repetition": 11
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD001",
+      "architecture": "tcn",
+      "seed": 20261011,
+      "protocol": "burst_missing",
+      "repetition": 11
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD001",
+      "architecture": "tcn",
+      "seed": 20261011,
+      "protocol": "channel_dropout",
+      "repetition": 11
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD001",
+      "architecture": "tcn",
+      "seed": 20261011,
+      "protocol": "gradual_bias",
+      "repetition": 11
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD002",
+      "architecture": "tcn",
+      "seed": 20261011,
+      "protocol": "matched",
+      "repetition": 11
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD002",
+      "architecture": "tcn",
+      "seed": 20261011,
+      "protocol": "burst_missing",
+      "repetition": 11
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD002",
+      "architecture": "tcn",
+      "seed": 20261011,
+      "protocol": "channel_dropout",
+      "repetition": 11
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD002",
+      "architecture": "tcn",
+      "seed": 20261011,
+      "protocol": "gradual_bias",
+      "repetition": 11
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD003",
+      "architecture": "tcn",
+      "seed": 20261021,
+      "protocol": "matched",
+      "repetition": 11
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD003",
+      "architecture": "tcn",
+      "seed": 20261021,
+      "protocol": "burst_missing",
+      "repetition": 11
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD003",
+      "architecture": "tcn",
+      "seed": 20261021,
+      "protocol": "channel_dropout",
+      "repetition": 11
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD003",
+      "architecture": "tcn",
+      "seed": 20261021,
+      "protocol": "gradual_bias",
+      "repetition": 11
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD004",
+      "architecture": "tcn",
+      "seed": 20261021,
+      "protocol": "matched",
+      "repetition": 11
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD004",
+      "architecture": "tcn",
+      "seed": 20261021,
+      "protocol": "burst_missing",
+      "repetition": 11
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD004",
+      "architecture": "tcn",
+      "seed": 20261021,
+      "protocol": "channel_dropout",
+      "repetition": 11
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD004",
+      "architecture": "tcn",
+      "seed": 20261021,
+      "protocol": "gradual_bias",
+      "repetition": 11
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds01_03",
+      "architecture": "tcn",
+      "seed": 20261111,
+      "protocol": "matched",
+      "repetition": 11
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds01_03",
+      "architecture": "tcn",
+      "seed": 20261111,
+      "protocol": "burst_missing",
+      "repetition": 11
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds01_03",
+      "architecture": "tcn",
+      "seed": 20261111,
+      "protocol": "channel_dropout",
+      "repetition": 11
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds01_03",
+      "architecture": "tcn",
+      "seed": 20261111,
+      "protocol": "gradual_bias",
+      "repetition": 11
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds04_07",
+      "architecture": "tcn",
+      "seed": 20261211,
+      "protocol": "matched",
+      "repetition": 11
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds04_07",
+      "architecture": "tcn",
+      "seed": 20261211,
+      "protocol": "burst_missing",
+      "repetition": 11
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds04_07",
+      "architecture": "tcn",
+      "seed": 20261211,
+      "protocol": "channel_dropout",
+      "repetition": 11
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds04_07",
+      "architecture": "tcn",
+      "seed": 20261211,
+      "protocol": "gradual_bias",
+      "repetition": 11
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD001",
+      "architecture": "tcn",
+      "seed": 20261012,
+      "protocol": "matched",
+      "repetition": 12
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD001",
+      "architecture": "tcn",
+      "seed": 20261012,
+      "protocol": "burst_missing",
+      "repetition": 12
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD001",
+      "architecture": "tcn",
+      "seed": 20261012,
+      "protocol": "channel_dropout",
+      "repetition": 12
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD001",
+      "architecture": "tcn",
+      "seed": 20261012,
+      "protocol": "gradual_bias",
+      "repetition": 12
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD002",
+      "architecture": "tcn",
+      "seed": 20261012,
+      "protocol": "matched",
+      "repetition": 12
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD002",
+      "architecture": "tcn",
+      "seed": 20261012,
+      "protocol": "burst_missing",
+      "repetition": 12
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD002",
+      "architecture": "tcn",
+      "seed": 20261012,
+      "protocol": "channel_dropout",
+      "repetition": 12
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD002",
+      "architecture": "tcn",
+      "seed": 20261012,
+      "protocol": "gradual_bias",
+      "repetition": 12
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD003",
+      "architecture": "tcn",
+      "seed": 20261022,
+      "protocol": "matched",
+      "repetition": 12
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD003",
+      "architecture": "tcn",
+      "seed": 20261022,
+      "protocol": "burst_missing",
+      "repetition": 12
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD003",
+      "architecture": "tcn",
+      "seed": 20261022,
+      "protocol": "channel_dropout",
+      "repetition": 12
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD003",
+      "architecture": "tcn",
+      "seed": 20261022,
+      "protocol": "gradual_bias",
+      "repetition": 12
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD004",
+      "architecture": "tcn",
+      "seed": 20261022,
+      "protocol": "matched",
+      "repetition": 12
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD004",
+      "architecture": "tcn",
+      "seed": 20261022,
+      "protocol": "burst_missing",
+      "repetition": 12
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD004",
+      "architecture": "tcn",
+      "seed": 20261022,
+      "protocol": "channel_dropout",
+      "repetition": 12
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD004",
+      "architecture": "tcn",
+      "seed": 20261022,
+      "protocol": "gradual_bias",
+      "repetition": 12
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds01_03",
+      "architecture": "tcn",
+      "seed": 20261112,
+      "protocol": "matched",
+      "repetition": 12
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds01_03",
+      "architecture": "tcn",
+      "seed": 20261112,
+      "protocol": "burst_missing",
+      "repetition": 12
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds01_03",
+      "architecture": "tcn",
+      "seed": 20261112,
+      "protocol": "channel_dropout",
+      "repetition": 12
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds01_03",
+      "architecture": "tcn",
+      "seed": 20261112,
+      "protocol": "gradual_bias",
+      "repetition": 12
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds04_07",
+      "architecture": "tcn",
+      "seed": 20261212,
+      "protocol": "matched",
+      "repetition": 12
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds04_07",
+      "architecture": "tcn",
+      "seed": 20261212,
+      "protocol": "burst_missing",
+      "repetition": 12
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds04_07",
+      "architecture": "tcn",
+      "seed": 20261212,
+      "protocol": "channel_dropout",
+      "repetition": 12
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds04_07",
+      "architecture": "tcn",
+      "seed": 20261212,
+      "protocol": "gradual_bias",
+      "repetition": 12
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD001",
+      "architecture": "tcn",
+      "seed": 20261013,
+      "protocol": "matched",
+      "repetition": 13
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD001",
+      "architecture": "tcn",
+      "seed": 20261013,
+      "protocol": "burst_missing",
+      "repetition": 13
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD001",
+      "architecture": "tcn",
+      "seed": 20261013,
+      "protocol": "channel_dropout",
+      "repetition": 13
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD001",
+      "architecture": "tcn",
+      "seed": 20261013,
+      "protocol": "gradual_bias",
+      "repetition": 13
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD002",
+      "architecture": "tcn",
+      "seed": 20261013,
+      "protocol": "matched",
+      "repetition": 13
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD002",
+      "architecture": "tcn",
+      "seed": 20261013,
+      "protocol": "burst_missing",
+      "repetition": 13
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD002",
+      "architecture": "tcn",
+      "seed": 20261013,
+      "protocol": "channel_dropout",
+      "repetition": 13
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD002",
+      "architecture": "tcn",
+      "seed": 20261013,
+      "protocol": "gradual_bias",
+      "repetition": 13
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD003",
+      "architecture": "tcn",
+      "seed": 20261023,
+      "protocol": "matched",
+      "repetition": 13
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD003",
+      "architecture": "tcn",
+      "seed": 20261023,
+      "protocol": "burst_missing",
+      "repetition": 13
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD003",
+      "architecture": "tcn",
+      "seed": 20261023,
+      "protocol": "channel_dropout",
+      "repetition": 13
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD003",
+      "architecture": "tcn",
+      "seed": 20261023,
+      "protocol": "gradual_bias",
+      "repetition": 13
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD004",
+      "architecture": "tcn",
+      "seed": 20261023,
+      "protocol": "matched",
+      "repetition": 13
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD004",
+      "architecture": "tcn",
+      "seed": 20261023,
+      "protocol": "burst_missing",
+      "repetition": 13
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD004",
+      "architecture": "tcn",
+      "seed": 20261023,
+      "protocol": "channel_dropout",
+      "repetition": 13
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD004",
+      "architecture": "tcn",
+      "seed": 20261023,
+      "protocol": "gradual_bias",
+      "repetition": 13
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds01_03",
+      "architecture": "tcn",
+      "seed": 20261113,
+      "protocol": "matched",
+      "repetition": 13
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds01_03",
+      "architecture": "tcn",
+      "seed": 20261113,
+      "protocol": "burst_missing",
+      "repetition": 13
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds01_03",
+      "architecture": "tcn",
+      "seed": 20261113,
+      "protocol": "channel_dropout",
+      "repetition": 13
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds01_03",
+      "architecture": "tcn",
+      "seed": 20261113,
+      "protocol": "gradual_bias",
+      "repetition": 13
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds04_07",
+      "architecture": "tcn",
+      "seed": 20261213,
+      "protocol": "matched",
+      "repetition": 13
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds04_07",
+      "architecture": "tcn",
+      "seed": 20261213,
+      "protocol": "burst_missing",
+      "repetition": 13
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds04_07",
+      "architecture": "tcn",
+      "seed": 20261213,
+      "protocol": "channel_dropout",
+      "repetition": 13
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds04_07",
+      "architecture": "tcn",
+      "seed": 20261213,
+      "protocol": "gradual_bias",
+      "repetition": 13
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD001",
+      "architecture": "tcn",
+      "seed": 20261014,
+      "protocol": "matched",
+      "repetition": 14
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD001",
+      "architecture": "tcn",
+      "seed": 20261014,
+      "protocol": "burst_missing",
+      "repetition": 14
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD001",
+      "architecture": "tcn",
+      "seed": 20261014,
+      "protocol": "channel_dropout",
+      "repetition": 14
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD001",
+      "architecture": "tcn",
+      "seed": 20261014,
+      "protocol": "gradual_bias",
+      "repetition": 14
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD002",
+      "architecture": "tcn",
+      "seed": 20261014,
+      "protocol": "matched",
+      "repetition": 14
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD002",
+      "architecture": "tcn",
+      "seed": 20261014,
+      "protocol": "burst_missing",
+      "repetition": 14
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD002",
+      "architecture": "tcn",
+      "seed": 20261014,
+      "protocol": "channel_dropout",
+      "repetition": 14
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD002",
+      "architecture": "tcn",
+      "seed": 20261014,
+      "protocol": "gradual_bias",
+      "repetition": 14
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD003",
+      "architecture": "tcn",
+      "seed": 20261024,
+      "protocol": "matched",
+      "repetition": 14
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD003",
+      "architecture": "tcn",
+      "seed": 20261024,
+      "protocol": "burst_missing",
+      "repetition": 14
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD003",
+      "architecture": "tcn",
+      "seed": 20261024,
+      "protocol": "channel_dropout",
+      "repetition": 14
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD003",
+      "architecture": "tcn",
+      "seed": 20261024,
+      "protocol": "gradual_bias",
+      "repetition": 14
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD004",
+      "architecture": "tcn",
+      "seed": 20261024,
+      "protocol": "matched",
+      "repetition": 14
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD004",
+      "architecture": "tcn",
+      "seed": 20261024,
+      "protocol": "burst_missing",
+      "repetition": 14
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD004",
+      "architecture": "tcn",
+      "seed": 20261024,
+      "protocol": "channel_dropout",
+      "repetition": 14
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD004",
+      "architecture": "tcn",
+      "seed": 20261024,
+      "protocol": "gradual_bias",
+      "repetition": 14
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds01_03",
+      "architecture": "tcn",
+      "seed": 20261114,
+      "protocol": "matched",
+      "repetition": 14
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds01_03",
+      "architecture": "tcn",
+      "seed": 20261114,
+      "protocol": "burst_missing",
+      "repetition": 14
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds01_03",
+      "architecture": "tcn",
+      "seed": 20261114,
+      "protocol": "channel_dropout",
+      "repetition": 14
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds01_03",
+      "architecture": "tcn",
+      "seed": 20261114,
+      "protocol": "gradual_bias",
+      "repetition": 14
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds04_07",
+      "architecture": "tcn",
+      "seed": 20261214,
+      "protocol": "matched",
+      "repetition": 14
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds04_07",
+      "architecture": "tcn",
+      "seed": 20261214,
+      "protocol": "burst_missing",
+      "repetition": 14
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds04_07",
+      "architecture": "tcn",
+      "seed": 20261214,
+      "protocol": "channel_dropout",
+      "repetition": 14
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds04_07",
+      "architecture": "tcn",
+      "seed": 20261214,
+      "protocol": "gradual_bias",
+      "repetition": 14
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD001",
+      "architecture": "tcn",
+      "seed": 20261015,
+      "protocol": "matched",
+      "repetition": 15
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD001",
+      "architecture": "tcn",
+      "seed": 20261015,
+      "protocol": "burst_missing",
+      "repetition": 15
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD001",
+      "architecture": "tcn",
+      "seed": 20261015,
+      "protocol": "channel_dropout",
+      "repetition": 15
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD001",
+      "architecture": "tcn",
+      "seed": 20261015,
+      "protocol": "gradual_bias",
+      "repetition": 15
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD002",
+      "architecture": "tcn",
+      "seed": 20261015,
+      "protocol": "matched",
+      "repetition": 15
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD002",
+      "architecture": "tcn",
+      "seed": 20261015,
+      "protocol": "burst_missing",
+      "repetition": 15
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD002",
+      "architecture": "tcn",
+      "seed": 20261015,
+      "protocol": "channel_dropout",
+      "repetition": 15
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD002",
+      "architecture": "tcn",
+      "seed": 20261015,
+      "protocol": "gradual_bias",
+      "repetition": 15
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD003",
+      "architecture": "tcn",
+      "seed": 20261025,
+      "protocol": "matched",
+      "repetition": 15
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD003",
+      "architecture": "tcn",
+      "seed": 20261025,
+      "protocol": "burst_missing",
+      "repetition": 15
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD003",
+      "architecture": "tcn",
+      "seed": 20261025,
+      "protocol": "channel_dropout",
+      "repetition": 15
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD003",
+      "architecture": "tcn",
+      "seed": 20261025,
+      "protocol": "gradual_bias",
+      "repetition": 15
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD004",
+      "architecture": "tcn",
+      "seed": 20261025,
+      "protocol": "matched",
+      "repetition": 15
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD004",
+      "architecture": "tcn",
+      "seed": 20261025,
+      "protocol": "burst_missing",
+      "repetition": 15
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD004",
+      "architecture": "tcn",
+      "seed": 20261025,
+      "protocol": "channel_dropout",
+      "repetition": 15
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD004",
+      "architecture": "tcn",
+      "seed": 20261025,
+      "protocol": "gradual_bias",
+      "repetition": 15
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds01_03",
+      "architecture": "tcn",
+      "seed": 20261115,
+      "protocol": "matched",
+      "repetition": 15
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds01_03",
+      "architecture": "tcn",
+      "seed": 20261115,
+      "protocol": "burst_missing",
+      "repetition": 15
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds01_03",
+      "architecture": "tcn",
+      "seed": 20261115,
+      "protocol": "channel_dropout",
+      "repetition": 15
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds01_03",
+      "architecture": "tcn",
+      "seed": 20261115,
+      "protocol": "gradual_bias",
+      "repetition": 15
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds04_07",
+      "architecture": "tcn",
+      "seed": 20261215,
+      "protocol": "matched",
+      "repetition": 15
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds04_07",
+      "architecture": "tcn",
+      "seed": 20261215,
+      "protocol": "burst_missing",
+      "repetition": 15
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds04_07",
+      "architecture": "tcn",
+      "seed": 20261215,
+      "protocol": "channel_dropout",
+      "repetition": 15
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds04_07",
+      "architecture": "tcn",
+      "seed": 20261215,
+      "protocol": "gradual_bias",
+      "repetition": 15
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD001",
+      "architecture": "tcn",
+      "seed": 20261016,
+      "protocol": "matched",
+      "repetition": 16
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD001",
+      "architecture": "tcn",
+      "seed": 20261016,
+      "protocol": "burst_missing",
+      "repetition": 16
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD001",
+      "architecture": "tcn",
+      "seed": 20261016,
+      "protocol": "channel_dropout",
+      "repetition": 16
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD001",
+      "architecture": "tcn",
+      "seed": 20261016,
+      "protocol": "gradual_bias",
+      "repetition": 16
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD002",
+      "architecture": "tcn",
+      "seed": 20261016,
+      "protocol": "matched",
+      "repetition": 16
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD002",
+      "architecture": "tcn",
+      "seed": 20261016,
+      "protocol": "burst_missing",
+      "repetition": 16
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD002",
+      "architecture": "tcn",
+      "seed": 20261016,
+      "protocol": "channel_dropout",
+      "repetition": 16
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD002",
+      "architecture": "tcn",
+      "seed": 20261016,
+      "protocol": "gradual_bias",
+      "repetition": 16
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD003",
+      "architecture": "tcn",
+      "seed": 20261026,
+      "protocol": "matched",
+      "repetition": 16
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD003",
+      "architecture": "tcn",
+      "seed": 20261026,
+      "protocol": "burst_missing",
+      "repetition": 16
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD003",
+      "architecture": "tcn",
+      "seed": 20261026,
+      "protocol": "channel_dropout",
+      "repetition": 16
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD003",
+      "architecture": "tcn",
+      "seed": 20261026,
+      "protocol": "gradual_bias",
+      "repetition": 16
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD004",
+      "architecture": "tcn",
+      "seed": 20261026,
+      "protocol": "matched",
+      "repetition": 16
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD004",
+      "architecture": "tcn",
+      "seed": 20261026,
+      "protocol": "burst_missing",
+      "repetition": 16
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD004",
+      "architecture": "tcn",
+      "seed": 20261026,
+      "protocol": "channel_dropout",
+      "repetition": 16
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD004",
+      "architecture": "tcn",
+      "seed": 20261026,
+      "protocol": "gradual_bias",
+      "repetition": 16
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds01_03",
+      "architecture": "tcn",
+      "seed": 20261116,
+      "protocol": "matched",
+      "repetition": 16
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds01_03",
+      "architecture": "tcn",
+      "seed": 20261116,
+      "protocol": "burst_missing",
+      "repetition": 16
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds01_03",
+      "architecture": "tcn",
+      "seed": 20261116,
+      "protocol": "channel_dropout",
+      "repetition": 16
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds01_03",
+      "architecture": "tcn",
+      "seed": 20261116,
+      "protocol": "gradual_bias",
+      "repetition": 16
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds04_07",
+      "architecture": "tcn",
+      "seed": 20261216,
+      "protocol": "matched",
+      "repetition": 16
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds04_07",
+      "architecture": "tcn",
+      "seed": 20261216,
+      "protocol": "burst_missing",
+      "repetition": 16
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds04_07",
+      "architecture": "tcn",
+      "seed": 20261216,
+      "protocol": "channel_dropout",
+      "repetition": 16
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds04_07",
+      "architecture": "tcn",
+      "seed": 20261216,
+      "protocol": "gradual_bias",
+      "repetition": 16
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD001",
+      "architecture": "tcn",
+      "seed": 20261017,
+      "protocol": "matched",
+      "repetition": 17
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD001",
+      "architecture": "tcn",
+      "seed": 20261017,
+      "protocol": "burst_missing",
+      "repetition": 17
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD001",
+      "architecture": "tcn",
+      "seed": 20261017,
+      "protocol": "channel_dropout",
+      "repetition": 17
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD001",
+      "architecture": "tcn",
+      "seed": 20261017,
+      "protocol": "gradual_bias",
+      "repetition": 17
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD002",
+      "architecture": "tcn",
+      "seed": 20261017,
+      "protocol": "matched",
+      "repetition": 17
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD002",
+      "architecture": "tcn",
+      "seed": 20261017,
+      "protocol": "burst_missing",
+      "repetition": 17
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD002",
+      "architecture": "tcn",
+      "seed": 20261017,
+      "protocol": "channel_dropout",
+      "repetition": 17
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD002",
+      "architecture": "tcn",
+      "seed": 20261017,
+      "protocol": "gradual_bias",
+      "repetition": 17
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD003",
+      "architecture": "tcn",
+      "seed": 20261027,
+      "protocol": "matched",
+      "repetition": 17
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD003",
+      "architecture": "tcn",
+      "seed": 20261027,
+      "protocol": "burst_missing",
+      "repetition": 17
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD003",
+      "architecture": "tcn",
+      "seed": 20261027,
+      "protocol": "channel_dropout",
+      "repetition": 17
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD003",
+      "architecture": "tcn",
+      "seed": 20261027,
+      "protocol": "gradual_bias",
+      "repetition": 17
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD004",
+      "architecture": "tcn",
+      "seed": 20261027,
+      "protocol": "matched",
+      "repetition": 17
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD004",
+      "architecture": "tcn",
+      "seed": 20261027,
+      "protocol": "burst_missing",
+      "repetition": 17
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD004",
+      "architecture": "tcn",
+      "seed": 20261027,
+      "protocol": "channel_dropout",
+      "repetition": 17
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD004",
+      "architecture": "tcn",
+      "seed": 20261027,
+      "protocol": "gradual_bias",
+      "repetition": 17
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds01_03",
+      "architecture": "tcn",
+      "seed": 20261117,
+      "protocol": "matched",
+      "repetition": 17
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds01_03",
+      "architecture": "tcn",
+      "seed": 20261117,
+      "protocol": "burst_missing",
+      "repetition": 17
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds01_03",
+      "architecture": "tcn",
+      "seed": 20261117,
+      "protocol": "channel_dropout",
+      "repetition": 17
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds01_03",
+      "architecture": "tcn",
+      "seed": 20261117,
+      "protocol": "gradual_bias",
+      "repetition": 17
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds04_07",
+      "architecture": "tcn",
+      "seed": 20261217,
+      "protocol": "matched",
+      "repetition": 17
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds04_07",
+      "architecture": "tcn",
+      "seed": 20261217,
+      "protocol": "burst_missing",
+      "repetition": 17
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds04_07",
+      "architecture": "tcn",
+      "seed": 20261217,
+      "protocol": "channel_dropout",
+      "repetition": 17
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds04_07",
+      "architecture": "tcn",
+      "seed": 20261217,
+      "protocol": "gradual_bias",
+      "repetition": 17
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD001",
+      "architecture": "tcn",
+      "seed": 20261018,
+      "protocol": "matched",
+      "repetition": 18
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD001",
+      "architecture": "tcn",
+      "seed": 20261018,
+      "protocol": "burst_missing",
+      "repetition": 18
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD001",
+      "architecture": "tcn",
+      "seed": 20261018,
+      "protocol": "channel_dropout",
+      "repetition": 18
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD001",
+      "architecture": "tcn",
+      "seed": 20261018,
+      "protocol": "gradual_bias",
+      "repetition": 18
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD002",
+      "architecture": "tcn",
+      "seed": 20261018,
+      "protocol": "matched",
+      "repetition": 18
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD002",
+      "architecture": "tcn",
+      "seed": 20261018,
+      "protocol": "burst_missing",
+      "repetition": 18
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD002",
+      "architecture": "tcn",
+      "seed": 20261018,
+      "protocol": "channel_dropout",
+      "repetition": 18
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD002",
+      "architecture": "tcn",
+      "seed": 20261018,
+      "protocol": "gradual_bias",
+      "repetition": 18
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD003",
+      "architecture": "tcn",
+      "seed": 20261028,
+      "protocol": "matched",
+      "repetition": 18
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD003",
+      "architecture": "tcn",
+      "seed": 20261028,
+      "protocol": "burst_missing",
+      "repetition": 18
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD003",
+      "architecture": "tcn",
+      "seed": 20261028,
+      "protocol": "channel_dropout",
+      "repetition": 18
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD003",
+      "architecture": "tcn",
+      "seed": 20261028,
+      "protocol": "gradual_bias",
+      "repetition": 18
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD004",
+      "architecture": "tcn",
+      "seed": 20261028,
+      "protocol": "matched",
+      "repetition": 18
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD004",
+      "architecture": "tcn",
+      "seed": 20261028,
+      "protocol": "burst_missing",
+      "repetition": 18
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD004",
+      "architecture": "tcn",
+      "seed": 20261028,
+      "protocol": "channel_dropout",
+      "repetition": 18
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD004",
+      "architecture": "tcn",
+      "seed": 20261028,
+      "protocol": "gradual_bias",
+      "repetition": 18
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds01_03",
+      "architecture": "tcn",
+      "seed": 20261118,
+      "protocol": "matched",
+      "repetition": 18
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds01_03",
+      "architecture": "tcn",
+      "seed": 20261118,
+      "protocol": "burst_missing",
+      "repetition": 18
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds01_03",
+      "architecture": "tcn",
+      "seed": 20261118,
+      "protocol": "channel_dropout",
+      "repetition": 18
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds01_03",
+      "architecture": "tcn",
+      "seed": 20261118,
+      "protocol": "gradual_bias",
+      "repetition": 18
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds04_07",
+      "architecture": "tcn",
+      "seed": 20261218,
+      "protocol": "matched",
+      "repetition": 18
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds04_07",
+      "architecture": "tcn",
+      "seed": 20261218,
+      "protocol": "burst_missing",
+      "repetition": 18
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds04_07",
+      "architecture": "tcn",
+      "seed": 20261218,
+      "protocol": "channel_dropout",
+      "repetition": 18
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds04_07",
+      "architecture": "tcn",
+      "seed": 20261218,
+      "protocol": "gradual_bias",
+      "repetition": 18
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD001",
+      "architecture": "tcn",
+      "seed": 20261019,
+      "protocol": "matched",
+      "repetition": 19
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD001",
+      "architecture": "tcn",
+      "seed": 20261019,
+      "protocol": "burst_missing",
+      "repetition": 19
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD001",
+      "architecture": "tcn",
+      "seed": 20261019,
+      "protocol": "channel_dropout",
+      "repetition": 19
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD001",
+      "architecture": "tcn",
+      "seed": 20261019,
+      "protocol": "gradual_bias",
+      "repetition": 19
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD002",
+      "architecture": "tcn",
+      "seed": 20261019,
+      "protocol": "matched",
+      "repetition": 19
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD002",
+      "architecture": "tcn",
+      "seed": 20261019,
+      "protocol": "burst_missing",
+      "repetition": 19
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD002",
+      "architecture": "tcn",
+      "seed": 20261019,
+      "protocol": "channel_dropout",
+      "repetition": 19
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD002",
+      "architecture": "tcn",
+      "seed": 20261019,
+      "protocol": "gradual_bias",
+      "repetition": 19
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD003",
+      "architecture": "tcn",
+      "seed": 20261029,
+      "protocol": "matched",
+      "repetition": 19
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD003",
+      "architecture": "tcn",
+      "seed": 20261029,
+      "protocol": "burst_missing",
+      "repetition": 19
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD003",
+      "architecture": "tcn",
+      "seed": 20261029,
+      "protocol": "channel_dropout",
+      "repetition": 19
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD003",
+      "architecture": "tcn",
+      "seed": 20261029,
+      "protocol": "gradual_bias",
+      "repetition": 19
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD004",
+      "architecture": "tcn",
+      "seed": 20261029,
+      "protocol": "matched",
+      "repetition": 19
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD004",
+      "architecture": "tcn",
+      "seed": 20261029,
+      "protocol": "burst_missing",
+      "repetition": 19
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD004",
+      "architecture": "tcn",
+      "seed": 20261029,
+      "protocol": "channel_dropout",
+      "repetition": 19
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD004",
+      "architecture": "tcn",
+      "seed": 20261029,
+      "protocol": "gradual_bias",
+      "repetition": 19
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds01_03",
+      "architecture": "tcn",
+      "seed": 20261119,
+      "protocol": "matched",
+      "repetition": 19
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds01_03",
+      "architecture": "tcn",
+      "seed": 20261119,
+      "protocol": "burst_missing",
+      "repetition": 19
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds01_03",
+      "architecture": "tcn",
+      "seed": 20261119,
+      "protocol": "channel_dropout",
+      "repetition": 19
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds01_03",
+      "architecture": "tcn",
+      "seed": 20261119,
+      "protocol": "gradual_bias",
+      "repetition": 19
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds04_07",
+      "architecture": "tcn",
+      "seed": 20261219,
+      "protocol": "matched",
+      "repetition": 19
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds04_07",
+      "architecture": "tcn",
+      "seed": 20261219,
+      "protocol": "burst_missing",
+      "repetition": 19
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds04_07",
+      "architecture": "tcn",
+      "seed": 20261219,
+      "protocol": "channel_dropout",
+      "repetition": 19
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds04_07",
+      "architecture": "tcn",
+      "seed": 20261219,
+      "protocol": "gradual_bias",
+      "repetition": 19
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD001",
+      "architecture": "tcn",
+      "seed": 20261020,
+      "protocol": "matched",
+      "repetition": 20
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD001",
+      "architecture": "tcn",
+      "seed": 20261020,
+      "protocol": "burst_missing",
+      "repetition": 20
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD001",
+      "architecture": "tcn",
+      "seed": 20261020,
+      "protocol": "channel_dropout",
+      "repetition": 20
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD001",
+      "architecture": "tcn",
+      "seed": 20261020,
+      "protocol": "gradual_bias",
+      "repetition": 20
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD002",
+      "architecture": "tcn",
+      "seed": 20261020,
+      "protocol": "matched",
+      "repetition": 20
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD002",
+      "architecture": "tcn",
+      "seed": 20261020,
+      "protocol": "burst_missing",
+      "repetition": 20
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD002",
+      "architecture": "tcn",
+      "seed": 20261020,
+      "protocol": "channel_dropout",
+      "repetition": 20
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD002",
+      "architecture": "tcn",
+      "seed": 20261020,
+      "protocol": "gradual_bias",
+      "repetition": 20
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD003",
+      "architecture": "tcn",
+      "seed": 20261030,
+      "protocol": "matched",
+      "repetition": 20
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD003",
+      "architecture": "tcn",
+      "seed": 20261030,
+      "protocol": "burst_missing",
+      "repetition": 20
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD003",
+      "architecture": "tcn",
+      "seed": 20261030,
+      "protocol": "channel_dropout",
+      "repetition": 20
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD003",
+      "architecture": "tcn",
+      "seed": 20261030,
+      "protocol": "gradual_bias",
+      "repetition": 20
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD004",
+      "architecture": "tcn",
+      "seed": 20261030,
+      "protocol": "matched",
+      "repetition": 20
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD004",
+      "architecture": "tcn",
+      "seed": 20261030,
+      "protocol": "burst_missing",
+      "repetition": 20
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD004",
+      "architecture": "tcn",
+      "seed": 20261030,
+      "protocol": "channel_dropout",
+      "repetition": 20
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD004",
+      "architecture": "tcn",
+      "seed": 20261030,
+      "protocol": "gradual_bias",
+      "repetition": 20
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds01_03",
+      "architecture": "tcn",
+      "seed": 20261120,
+      "protocol": "matched",
+      "repetition": 20
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds01_03",
+      "architecture": "tcn",
+      "seed": 20261120,
+      "protocol": "burst_missing",
+      "repetition": 20
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds01_03",
+      "architecture": "tcn",
+      "seed": 20261120,
+      "protocol": "channel_dropout",
+      "repetition": 20
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds01_03",
+      "architecture": "tcn",
+      "seed": 20261120,
+      "protocol": "gradual_bias",
+      "repetition": 20
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds04_07",
+      "architecture": "tcn",
+      "seed": 20261220,
+      "protocol": "matched",
+      "repetition": 20
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds04_07",
+      "architecture": "tcn",
+      "seed": 20261220,
+      "protocol": "burst_missing",
+      "repetition": 20
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds04_07",
+      "architecture": "tcn",
+      "seed": 20261220,
+      "protocol": "channel_dropout",
+      "repetition": 20
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds04_07",
+      "architecture": "tcn",
+      "seed": 20261220,
+      "protocol": "gradual_bias",
+      "repetition": 20
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD001",
+      "architecture": "transformer",
+      "seed": 20261011,
+      "protocol": "matched",
+      "repetition": 11
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD001",
+      "architecture": "transformer",
+      "seed": 20261011,
+      "protocol": "burst_missing",
+      "repetition": 11
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD001",
+      "architecture": "transformer",
+      "seed": 20261011,
+      "protocol": "channel_dropout",
+      "repetition": 11
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD001",
+      "architecture": "transformer",
+      "seed": 20261011,
+      "protocol": "gradual_bias",
+      "repetition": 11
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD002",
+      "architecture": "transformer",
+      "seed": 20261011,
+      "protocol": "matched",
+      "repetition": 11
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD002",
+      "architecture": "transformer",
+      "seed": 20261011,
+      "protocol": "burst_missing",
+      "repetition": 11
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD002",
+      "architecture": "transformer",
+      "seed": 20261011,
+      "protocol": "channel_dropout",
+      "repetition": 11
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD002",
+      "architecture": "transformer",
+      "seed": 20261011,
+      "protocol": "gradual_bias",
+      "repetition": 11
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD003",
+      "architecture": "transformer",
+      "seed": 20261021,
+      "protocol": "matched",
+      "repetition": 11
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD003",
+      "architecture": "transformer",
+      "seed": 20261021,
+      "protocol": "burst_missing",
+      "repetition": 11
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD003",
+      "architecture": "transformer",
+      "seed": 20261021,
+      "protocol": "channel_dropout",
+      "repetition": 11
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD003",
+      "architecture": "transformer",
+      "seed": 20261021,
+      "protocol": "gradual_bias",
+      "repetition": 11
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD004",
+      "architecture": "transformer",
+      "seed": 20261021,
+      "protocol": "matched",
+      "repetition": 11
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD004",
+      "architecture": "transformer",
+      "seed": 20261021,
+      "protocol": "burst_missing",
+      "repetition": 11
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD004",
+      "architecture": "transformer",
+      "seed": 20261021,
+      "protocol": "channel_dropout",
+      "repetition": 11
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD004",
+      "architecture": "transformer",
+      "seed": 20261021,
+      "protocol": "gradual_bias",
+      "repetition": 11
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds01_03",
+      "architecture": "transformer",
+      "seed": 20261111,
+      "protocol": "matched",
+      "repetition": 11
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds01_03",
+      "architecture": "transformer",
+      "seed": 20261111,
+      "protocol": "burst_missing",
+      "repetition": 11
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds01_03",
+      "architecture": "transformer",
+      "seed": 20261111,
+      "protocol": "channel_dropout",
+      "repetition": 11
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds01_03",
+      "architecture": "transformer",
+      "seed": 20261111,
+      "protocol": "gradual_bias",
+      "repetition": 11
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds04_07",
+      "architecture": "transformer",
+      "seed": 20261211,
+      "protocol": "matched",
+      "repetition": 11
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds04_07",
+      "architecture": "transformer",
+      "seed": 20261211,
+      "protocol": "burst_missing",
+      "repetition": 11
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds04_07",
+      "architecture": "transformer",
+      "seed": 20261211,
+      "protocol": "channel_dropout",
+      "repetition": 11
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds04_07",
+      "architecture": "transformer",
+      "seed": 20261211,
+      "protocol": "gradual_bias",
+      "repetition": 11
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD001",
+      "architecture": "transformer",
+      "seed": 20261012,
+      "protocol": "matched",
+      "repetition": 12
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD001",
+      "architecture": "transformer",
+      "seed": 20261012,
+      "protocol": "burst_missing",
+      "repetition": 12
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD001",
+      "architecture": "transformer",
+      "seed": 20261012,
+      "protocol": "channel_dropout",
+      "repetition": 12
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD001",
+      "architecture": "transformer",
+      "seed": 20261012,
+      "protocol": "gradual_bias",
+      "repetition": 12
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD002",
+      "architecture": "transformer",
+      "seed": 20261012,
+      "protocol": "matched",
+      "repetition": 12
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD002",
+      "architecture": "transformer",
+      "seed": 20261012,
+      "protocol": "burst_missing",
+      "repetition": 12
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD002",
+      "architecture": "transformer",
+      "seed": 20261012,
+      "protocol": "channel_dropout",
+      "repetition": 12
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD002",
+      "architecture": "transformer",
+      "seed": 20261012,
+      "protocol": "gradual_bias",
+      "repetition": 12
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD003",
+      "architecture": "transformer",
+      "seed": 20261022,
+      "protocol": "matched",
+      "repetition": 12
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD003",
+      "architecture": "transformer",
+      "seed": 20261022,
+      "protocol": "burst_missing",
+      "repetition": 12
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD003",
+      "architecture": "transformer",
+      "seed": 20261022,
+      "protocol": "channel_dropout",
+      "repetition": 12
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD003",
+      "architecture": "transformer",
+      "seed": 20261022,
+      "protocol": "gradual_bias",
+      "repetition": 12
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD004",
+      "architecture": "transformer",
+      "seed": 20261022,
+      "protocol": "matched",
+      "repetition": 12
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD004",
+      "architecture": "transformer",
+      "seed": 20261022,
+      "protocol": "burst_missing",
+      "repetition": 12
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD004",
+      "architecture": "transformer",
+      "seed": 20261022,
+      "protocol": "channel_dropout",
+      "repetition": 12
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD004",
+      "architecture": "transformer",
+      "seed": 20261022,
+      "protocol": "gradual_bias",
+      "repetition": 12
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds01_03",
+      "architecture": "transformer",
+      "seed": 20261112,
+      "protocol": "matched",
+      "repetition": 12
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds01_03",
+      "architecture": "transformer",
+      "seed": 20261112,
+      "protocol": "burst_missing",
+      "repetition": 12
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds01_03",
+      "architecture": "transformer",
+      "seed": 20261112,
+      "protocol": "channel_dropout",
+      "repetition": 12
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds01_03",
+      "architecture": "transformer",
+      "seed": 20261112,
+      "protocol": "gradual_bias",
+      "repetition": 12
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds04_07",
+      "architecture": "transformer",
+      "seed": 20261212,
+      "protocol": "matched",
+      "repetition": 12
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds04_07",
+      "architecture": "transformer",
+      "seed": 20261212,
+      "protocol": "burst_missing",
+      "repetition": 12
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds04_07",
+      "architecture": "transformer",
+      "seed": 20261212,
+      "protocol": "channel_dropout",
+      "repetition": 12
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds04_07",
+      "architecture": "transformer",
+      "seed": 20261212,
+      "protocol": "gradual_bias",
+      "repetition": 12
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD001",
+      "architecture": "transformer",
+      "seed": 20261013,
+      "protocol": "matched",
+      "repetition": 13
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD001",
+      "architecture": "transformer",
+      "seed": 20261013,
+      "protocol": "burst_missing",
+      "repetition": 13
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD001",
+      "architecture": "transformer",
+      "seed": 20261013,
+      "protocol": "channel_dropout",
+      "repetition": 13
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD001",
+      "architecture": "transformer",
+      "seed": 20261013,
+      "protocol": "gradual_bias",
+      "repetition": 13
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD002",
+      "architecture": "transformer",
+      "seed": 20261013,
+      "protocol": "matched",
+      "repetition": 13
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD002",
+      "architecture": "transformer",
+      "seed": 20261013,
+      "protocol": "burst_missing",
+      "repetition": 13
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD002",
+      "architecture": "transformer",
+      "seed": 20261013,
+      "protocol": "channel_dropout",
+      "repetition": 13
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD002",
+      "architecture": "transformer",
+      "seed": 20261013,
+      "protocol": "gradual_bias",
+      "repetition": 13
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD003",
+      "architecture": "transformer",
+      "seed": 20261023,
+      "protocol": "matched",
+      "repetition": 13
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD003",
+      "architecture": "transformer",
+      "seed": 20261023,
+      "protocol": "burst_missing",
+      "repetition": 13
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD003",
+      "architecture": "transformer",
+      "seed": 20261023,
+      "protocol": "channel_dropout",
+      "repetition": 13
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD003",
+      "architecture": "transformer",
+      "seed": 20261023,
+      "protocol": "gradual_bias",
+      "repetition": 13
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD004",
+      "architecture": "transformer",
+      "seed": 20261023,
+      "protocol": "matched",
+      "repetition": 13
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD004",
+      "architecture": "transformer",
+      "seed": 20261023,
+      "protocol": "burst_missing",
+      "repetition": 13
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD004",
+      "architecture": "transformer",
+      "seed": 20261023,
+      "protocol": "channel_dropout",
+      "repetition": 13
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD004",
+      "architecture": "transformer",
+      "seed": 20261023,
+      "protocol": "gradual_bias",
+      "repetition": 13
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds01_03",
+      "architecture": "transformer",
+      "seed": 20261113,
+      "protocol": "matched",
+      "repetition": 13
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds01_03",
+      "architecture": "transformer",
+      "seed": 20261113,
+      "protocol": "burst_missing",
+      "repetition": 13
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds01_03",
+      "architecture": "transformer",
+      "seed": 20261113,
+      "protocol": "channel_dropout",
+      "repetition": 13
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds01_03",
+      "architecture": "transformer",
+      "seed": 20261113,
+      "protocol": "gradual_bias",
+      "repetition": 13
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds04_07",
+      "architecture": "transformer",
+      "seed": 20261213,
+      "protocol": "matched",
+      "repetition": 13
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds04_07",
+      "architecture": "transformer",
+      "seed": 20261213,
+      "protocol": "burst_missing",
+      "repetition": 13
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds04_07",
+      "architecture": "transformer",
+      "seed": 20261213,
+      "protocol": "channel_dropout",
+      "repetition": 13
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds04_07",
+      "architecture": "transformer",
+      "seed": 20261213,
+      "protocol": "gradual_bias",
+      "repetition": 13
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD001",
+      "architecture": "transformer",
+      "seed": 20261014,
+      "protocol": "matched",
+      "repetition": 14
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD001",
+      "architecture": "transformer",
+      "seed": 20261014,
+      "protocol": "burst_missing",
+      "repetition": 14
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD001",
+      "architecture": "transformer",
+      "seed": 20261014,
+      "protocol": "channel_dropout",
+      "repetition": 14
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD001",
+      "architecture": "transformer",
+      "seed": 20261014,
+      "protocol": "gradual_bias",
+      "repetition": 14
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD002",
+      "architecture": "transformer",
+      "seed": 20261014,
+      "protocol": "matched",
+      "repetition": 14
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD002",
+      "architecture": "transformer",
+      "seed": 20261014,
+      "protocol": "burst_missing",
+      "repetition": 14
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD002",
+      "architecture": "transformer",
+      "seed": 20261014,
+      "protocol": "channel_dropout",
+      "repetition": 14
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD002",
+      "architecture": "transformer",
+      "seed": 20261014,
+      "protocol": "gradual_bias",
+      "repetition": 14
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD003",
+      "architecture": "transformer",
+      "seed": 20261024,
+      "protocol": "matched",
+      "repetition": 14
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD003",
+      "architecture": "transformer",
+      "seed": 20261024,
+      "protocol": "burst_missing",
+      "repetition": 14
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD003",
+      "architecture": "transformer",
+      "seed": 20261024,
+      "protocol": "channel_dropout",
+      "repetition": 14
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD003",
+      "architecture": "transformer",
+      "seed": 20261024,
+      "protocol": "gradual_bias",
+      "repetition": 14
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD004",
+      "architecture": "transformer",
+      "seed": 20261024,
+      "protocol": "matched",
+      "repetition": 14
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD004",
+      "architecture": "transformer",
+      "seed": 20261024,
+      "protocol": "burst_missing",
+      "repetition": 14
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD004",
+      "architecture": "transformer",
+      "seed": 20261024,
+      "protocol": "channel_dropout",
+      "repetition": 14
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD004",
+      "architecture": "transformer",
+      "seed": 20261024,
+      "protocol": "gradual_bias",
+      "repetition": 14
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds01_03",
+      "architecture": "transformer",
+      "seed": 20261114,
+      "protocol": "matched",
+      "repetition": 14
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds01_03",
+      "architecture": "transformer",
+      "seed": 20261114,
+      "protocol": "burst_missing",
+      "repetition": 14
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds01_03",
+      "architecture": "transformer",
+      "seed": 20261114,
+      "protocol": "channel_dropout",
+      "repetition": 14
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds01_03",
+      "architecture": "transformer",
+      "seed": 20261114,
+      "protocol": "gradual_bias",
+      "repetition": 14
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds04_07",
+      "architecture": "transformer",
+      "seed": 20261214,
+      "protocol": "matched",
+      "repetition": 14
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds04_07",
+      "architecture": "transformer",
+      "seed": 20261214,
+      "protocol": "burst_missing",
+      "repetition": 14
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds04_07",
+      "architecture": "transformer",
+      "seed": 20261214,
+      "protocol": "channel_dropout",
+      "repetition": 14
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds04_07",
+      "architecture": "transformer",
+      "seed": 20261214,
+      "protocol": "gradual_bias",
+      "repetition": 14
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD001",
+      "architecture": "transformer",
+      "seed": 20261015,
+      "protocol": "matched",
+      "repetition": 15
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD001",
+      "architecture": "transformer",
+      "seed": 20261015,
+      "protocol": "burst_missing",
+      "repetition": 15
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD001",
+      "architecture": "transformer",
+      "seed": 20261015,
+      "protocol": "channel_dropout",
+      "repetition": 15
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD001",
+      "architecture": "transformer",
+      "seed": 20261015,
+      "protocol": "gradual_bias",
+      "repetition": 15
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD002",
+      "architecture": "transformer",
+      "seed": 20261015,
+      "protocol": "matched",
+      "repetition": 15
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD002",
+      "architecture": "transformer",
+      "seed": 20261015,
+      "protocol": "burst_missing",
+      "repetition": 15
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD002",
+      "architecture": "transformer",
+      "seed": 20261015,
+      "protocol": "channel_dropout",
+      "repetition": 15
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD002",
+      "architecture": "transformer",
+      "seed": 20261015,
+      "protocol": "gradual_bias",
+      "repetition": 15
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD003",
+      "architecture": "transformer",
+      "seed": 20261025,
+      "protocol": "matched",
+      "repetition": 15
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD003",
+      "architecture": "transformer",
+      "seed": 20261025,
+      "protocol": "burst_missing",
+      "repetition": 15
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD003",
+      "architecture": "transformer",
+      "seed": 20261025,
+      "protocol": "channel_dropout",
+      "repetition": 15
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD003",
+      "architecture": "transformer",
+      "seed": 20261025,
+      "protocol": "gradual_bias",
+      "repetition": 15
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD004",
+      "architecture": "transformer",
+      "seed": 20261025,
+      "protocol": "matched",
+      "repetition": 15
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD004",
+      "architecture": "transformer",
+      "seed": 20261025,
+      "protocol": "burst_missing",
+      "repetition": 15
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD004",
+      "architecture": "transformer",
+      "seed": 20261025,
+      "protocol": "channel_dropout",
+      "repetition": 15
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD004",
+      "architecture": "transformer",
+      "seed": 20261025,
+      "protocol": "gradual_bias",
+      "repetition": 15
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds01_03",
+      "architecture": "transformer",
+      "seed": 20261115,
+      "protocol": "matched",
+      "repetition": 15
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds01_03",
+      "architecture": "transformer",
+      "seed": 20261115,
+      "protocol": "burst_missing",
+      "repetition": 15
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds01_03",
+      "architecture": "transformer",
+      "seed": 20261115,
+      "protocol": "channel_dropout",
+      "repetition": 15
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds01_03",
+      "architecture": "transformer",
+      "seed": 20261115,
+      "protocol": "gradual_bias",
+      "repetition": 15
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds04_07",
+      "architecture": "transformer",
+      "seed": 20261215,
+      "protocol": "matched",
+      "repetition": 15
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds04_07",
+      "architecture": "transformer",
+      "seed": 20261215,
+      "protocol": "burst_missing",
+      "repetition": 15
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds04_07",
+      "architecture": "transformer",
+      "seed": 20261215,
+      "protocol": "channel_dropout",
+      "repetition": 15
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds04_07",
+      "architecture": "transformer",
+      "seed": 20261215,
+      "protocol": "gradual_bias",
+      "repetition": 15
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD001",
+      "architecture": "transformer",
+      "seed": 20261016,
+      "protocol": "matched",
+      "repetition": 16
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD001",
+      "architecture": "transformer",
+      "seed": 20261016,
+      "protocol": "burst_missing",
+      "repetition": 16
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD001",
+      "architecture": "transformer",
+      "seed": 20261016,
+      "protocol": "channel_dropout",
+      "repetition": 16
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD001",
+      "architecture": "transformer",
+      "seed": 20261016,
+      "protocol": "gradual_bias",
+      "repetition": 16
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD002",
+      "architecture": "transformer",
+      "seed": 20261016,
+      "protocol": "matched",
+      "repetition": 16
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD002",
+      "architecture": "transformer",
+      "seed": 20261016,
+      "protocol": "burst_missing",
+      "repetition": 16
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD002",
+      "architecture": "transformer",
+      "seed": 20261016,
+      "protocol": "channel_dropout",
+      "repetition": 16
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD002",
+      "architecture": "transformer",
+      "seed": 20261016,
+      "protocol": "gradual_bias",
+      "repetition": 16
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD003",
+      "architecture": "transformer",
+      "seed": 20261026,
+      "protocol": "matched",
+      "repetition": 16
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD003",
+      "architecture": "transformer",
+      "seed": 20261026,
+      "protocol": "burst_missing",
+      "repetition": 16
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD003",
+      "architecture": "transformer",
+      "seed": 20261026,
+      "protocol": "channel_dropout",
+      "repetition": 16
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD003",
+      "architecture": "transformer",
+      "seed": 20261026,
+      "protocol": "gradual_bias",
+      "repetition": 16
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD004",
+      "architecture": "transformer",
+      "seed": 20261026,
+      "protocol": "matched",
+      "repetition": 16
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD004",
+      "architecture": "transformer",
+      "seed": 20261026,
+      "protocol": "burst_missing",
+      "repetition": 16
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD004",
+      "architecture": "transformer",
+      "seed": 20261026,
+      "protocol": "channel_dropout",
+      "repetition": 16
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD004",
+      "architecture": "transformer",
+      "seed": 20261026,
+      "protocol": "gradual_bias",
+      "repetition": 16
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds01_03",
+      "architecture": "transformer",
+      "seed": 20261116,
+      "protocol": "matched",
+      "repetition": 16
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds01_03",
+      "architecture": "transformer",
+      "seed": 20261116,
+      "protocol": "burst_missing",
+      "repetition": 16
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds01_03",
+      "architecture": "transformer",
+      "seed": 20261116,
+      "protocol": "channel_dropout",
+      "repetition": 16
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds01_03",
+      "architecture": "transformer",
+      "seed": 20261116,
+      "protocol": "gradual_bias",
+      "repetition": 16
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds04_07",
+      "architecture": "transformer",
+      "seed": 20261216,
+      "protocol": "matched",
+      "repetition": 16
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds04_07",
+      "architecture": "transformer",
+      "seed": 20261216,
+      "protocol": "burst_missing",
+      "repetition": 16
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds04_07",
+      "architecture": "transformer",
+      "seed": 20261216,
+      "protocol": "channel_dropout",
+      "repetition": 16
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds04_07",
+      "architecture": "transformer",
+      "seed": 20261216,
+      "protocol": "gradual_bias",
+      "repetition": 16
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD001",
+      "architecture": "transformer",
+      "seed": 20261017,
+      "protocol": "matched",
+      "repetition": 17
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD001",
+      "architecture": "transformer",
+      "seed": 20261017,
+      "protocol": "burst_missing",
+      "repetition": 17
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD001",
+      "architecture": "transformer",
+      "seed": 20261017,
+      "protocol": "channel_dropout",
+      "repetition": 17
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD001",
+      "architecture": "transformer",
+      "seed": 20261017,
+      "protocol": "gradual_bias",
+      "repetition": 17
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD002",
+      "architecture": "transformer",
+      "seed": 20261017,
+      "protocol": "matched",
+      "repetition": 17
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD002",
+      "architecture": "transformer",
+      "seed": 20261017,
+      "protocol": "burst_missing",
+      "repetition": 17
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD002",
+      "architecture": "transformer",
+      "seed": 20261017,
+      "protocol": "channel_dropout",
+      "repetition": 17
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD002",
+      "architecture": "transformer",
+      "seed": 20261017,
+      "protocol": "gradual_bias",
+      "repetition": 17
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD003",
+      "architecture": "transformer",
+      "seed": 20261027,
+      "protocol": "matched",
+      "repetition": 17
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD003",
+      "architecture": "transformer",
+      "seed": 20261027,
+      "protocol": "burst_missing",
+      "repetition": 17
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD003",
+      "architecture": "transformer",
+      "seed": 20261027,
+      "protocol": "channel_dropout",
+      "repetition": 17
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD003",
+      "architecture": "transformer",
+      "seed": 20261027,
+      "protocol": "gradual_bias",
+      "repetition": 17
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD004",
+      "architecture": "transformer",
+      "seed": 20261027,
+      "protocol": "matched",
+      "repetition": 17
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD004",
+      "architecture": "transformer",
+      "seed": 20261027,
+      "protocol": "burst_missing",
+      "repetition": 17
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD004",
+      "architecture": "transformer",
+      "seed": 20261027,
+      "protocol": "channel_dropout",
+      "repetition": 17
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD004",
+      "architecture": "transformer",
+      "seed": 20261027,
+      "protocol": "gradual_bias",
+      "repetition": 17
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds01_03",
+      "architecture": "transformer",
+      "seed": 20261117,
+      "protocol": "matched",
+      "repetition": 17
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds01_03",
+      "architecture": "transformer",
+      "seed": 20261117,
+      "protocol": "burst_missing",
+      "repetition": 17
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds01_03",
+      "architecture": "transformer",
+      "seed": 20261117,
+      "protocol": "channel_dropout",
+      "repetition": 17
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds01_03",
+      "architecture": "transformer",
+      "seed": 20261117,
+      "protocol": "gradual_bias",
+      "repetition": 17
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds04_07",
+      "architecture": "transformer",
+      "seed": 20261217,
+      "protocol": "matched",
+      "repetition": 17
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds04_07",
+      "architecture": "transformer",
+      "seed": 20261217,
+      "protocol": "burst_missing",
+      "repetition": 17
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds04_07",
+      "architecture": "transformer",
+      "seed": 20261217,
+      "protocol": "channel_dropout",
+      "repetition": 17
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds04_07",
+      "architecture": "transformer",
+      "seed": 20261217,
+      "protocol": "gradual_bias",
+      "repetition": 17
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD001",
+      "architecture": "transformer",
+      "seed": 20261018,
+      "protocol": "matched",
+      "repetition": 18
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD001",
+      "architecture": "transformer",
+      "seed": 20261018,
+      "protocol": "burst_missing",
+      "repetition": 18
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD001",
+      "architecture": "transformer",
+      "seed": 20261018,
+      "protocol": "channel_dropout",
+      "repetition": 18
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD001",
+      "architecture": "transformer",
+      "seed": 20261018,
+      "protocol": "gradual_bias",
+      "repetition": 18
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD002",
+      "architecture": "transformer",
+      "seed": 20261018,
+      "protocol": "matched",
+      "repetition": 18
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD002",
+      "architecture": "transformer",
+      "seed": 20261018,
+      "protocol": "burst_missing",
+      "repetition": 18
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD002",
+      "architecture": "transformer",
+      "seed": 20261018,
+      "protocol": "channel_dropout",
+      "repetition": 18
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD002",
+      "architecture": "transformer",
+      "seed": 20261018,
+      "protocol": "gradual_bias",
+      "repetition": 18
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD003",
+      "architecture": "transformer",
+      "seed": 20261028,
+      "protocol": "matched",
+      "repetition": 18
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD003",
+      "architecture": "transformer",
+      "seed": 20261028,
+      "protocol": "burst_missing",
+      "repetition": 18
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD003",
+      "architecture": "transformer",
+      "seed": 20261028,
+      "protocol": "channel_dropout",
+      "repetition": 18
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD003",
+      "architecture": "transformer",
+      "seed": 20261028,
+      "protocol": "gradual_bias",
+      "repetition": 18
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD004",
+      "architecture": "transformer",
+      "seed": 20261028,
+      "protocol": "matched",
+      "repetition": 18
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD004",
+      "architecture": "transformer",
+      "seed": 20261028,
+      "protocol": "burst_missing",
+      "repetition": 18
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD004",
+      "architecture": "transformer",
+      "seed": 20261028,
+      "protocol": "channel_dropout",
+      "repetition": 18
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD004",
+      "architecture": "transformer",
+      "seed": 20261028,
+      "protocol": "gradual_bias",
+      "repetition": 18
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds01_03",
+      "architecture": "transformer",
+      "seed": 20261118,
+      "protocol": "matched",
+      "repetition": 18
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds01_03",
+      "architecture": "transformer",
+      "seed": 20261118,
+      "protocol": "burst_missing",
+      "repetition": 18
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds01_03",
+      "architecture": "transformer",
+      "seed": 20261118,
+      "protocol": "channel_dropout",
+      "repetition": 18
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds01_03",
+      "architecture": "transformer",
+      "seed": 20261118,
+      "protocol": "gradual_bias",
+      "repetition": 18
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds04_07",
+      "architecture": "transformer",
+      "seed": 20261218,
+      "protocol": "matched",
+      "repetition": 18
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds04_07",
+      "architecture": "transformer",
+      "seed": 20261218,
+      "protocol": "burst_missing",
+      "repetition": 18
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds04_07",
+      "architecture": "transformer",
+      "seed": 20261218,
+      "protocol": "channel_dropout",
+      "repetition": 18
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds04_07",
+      "architecture": "transformer",
+      "seed": 20261218,
+      "protocol": "gradual_bias",
+      "repetition": 18
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD001",
+      "architecture": "transformer",
+      "seed": 20261019,
+      "protocol": "matched",
+      "repetition": 19
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD001",
+      "architecture": "transformer",
+      "seed": 20261019,
+      "protocol": "burst_missing",
+      "repetition": 19
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD001",
+      "architecture": "transformer",
+      "seed": 20261019,
+      "protocol": "channel_dropout",
+      "repetition": 19
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD001",
+      "architecture": "transformer",
+      "seed": 20261019,
+      "protocol": "gradual_bias",
+      "repetition": 19
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD002",
+      "architecture": "transformer",
+      "seed": 20261019,
+      "protocol": "matched",
+      "repetition": 19
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD002",
+      "architecture": "transformer",
+      "seed": 20261019,
+      "protocol": "burst_missing",
+      "repetition": 19
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD002",
+      "architecture": "transformer",
+      "seed": 20261019,
+      "protocol": "channel_dropout",
+      "repetition": 19
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD002",
+      "architecture": "transformer",
+      "seed": 20261019,
+      "protocol": "gradual_bias",
+      "repetition": 19
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD003",
+      "architecture": "transformer",
+      "seed": 20261029,
+      "protocol": "matched",
+      "repetition": 19
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD003",
+      "architecture": "transformer",
+      "seed": 20261029,
+      "protocol": "burst_missing",
+      "repetition": 19
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD003",
+      "architecture": "transformer",
+      "seed": 20261029,
+      "protocol": "channel_dropout",
+      "repetition": 19
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD003",
+      "architecture": "transformer",
+      "seed": 20261029,
+      "protocol": "gradual_bias",
+      "repetition": 19
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD004",
+      "architecture": "transformer",
+      "seed": 20261029,
+      "protocol": "matched",
+      "repetition": 19
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD004",
+      "architecture": "transformer",
+      "seed": 20261029,
+      "protocol": "burst_missing",
+      "repetition": 19
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD004",
+      "architecture": "transformer",
+      "seed": 20261029,
+      "protocol": "channel_dropout",
+      "repetition": 19
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD004",
+      "architecture": "transformer",
+      "seed": 20261029,
+      "protocol": "gradual_bias",
+      "repetition": 19
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds01_03",
+      "architecture": "transformer",
+      "seed": 20261119,
+      "protocol": "matched",
+      "repetition": 19
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds01_03",
+      "architecture": "transformer",
+      "seed": 20261119,
+      "protocol": "burst_missing",
+      "repetition": 19
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds01_03",
+      "architecture": "transformer",
+      "seed": 20261119,
+      "protocol": "channel_dropout",
+      "repetition": 19
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds01_03",
+      "architecture": "transformer",
+      "seed": 20261119,
+      "protocol": "gradual_bias",
+      "repetition": 19
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds04_07",
+      "architecture": "transformer",
+      "seed": 20261219,
+      "protocol": "matched",
+      "repetition": 19
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds04_07",
+      "architecture": "transformer",
+      "seed": 20261219,
+      "protocol": "burst_missing",
+      "repetition": 19
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds04_07",
+      "architecture": "transformer",
+      "seed": 20261219,
+      "protocol": "channel_dropout",
+      "repetition": 19
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds04_07",
+      "architecture": "transformer",
+      "seed": 20261219,
+      "protocol": "gradual_bias",
+      "repetition": 19
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD001",
+      "architecture": "transformer",
+      "seed": 20261020,
+      "protocol": "matched",
+      "repetition": 20
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD001",
+      "architecture": "transformer",
+      "seed": 20261020,
+      "protocol": "burst_missing",
+      "repetition": 20
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD001",
+      "architecture": "transformer",
+      "seed": 20261020,
+      "protocol": "channel_dropout",
+      "repetition": 20
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD001",
+      "architecture": "transformer",
+      "seed": 20261020,
+      "protocol": "gradual_bias",
+      "repetition": 20
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD002",
+      "architecture": "transformer",
+      "seed": 20261020,
+      "protocol": "matched",
+      "repetition": 20
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD002",
+      "architecture": "transformer",
+      "seed": 20261020,
+      "protocol": "burst_missing",
+      "repetition": 20
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD002",
+      "architecture": "transformer",
+      "seed": 20261020,
+      "protocol": "channel_dropout",
+      "repetition": 20
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD002",
+      "architecture": "transformer",
+      "seed": 20261020,
+      "protocol": "gradual_bias",
+      "repetition": 20
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD003",
+      "architecture": "transformer",
+      "seed": 20261030,
+      "protocol": "matched",
+      "repetition": 20
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD003",
+      "architecture": "transformer",
+      "seed": 20261030,
+      "protocol": "burst_missing",
+      "repetition": 20
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD003",
+      "architecture": "transformer",
+      "seed": 20261030,
+      "protocol": "channel_dropout",
+      "repetition": 20
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD003",
+      "architecture": "transformer",
+      "seed": 20261030,
+      "protocol": "gradual_bias",
+      "repetition": 20
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD004",
+      "architecture": "transformer",
+      "seed": 20261030,
+      "protocol": "matched",
+      "repetition": 20
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD004",
+      "architecture": "transformer",
+      "seed": 20261030,
+      "protocol": "burst_missing",
+      "repetition": 20
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD004",
+      "architecture": "transformer",
+      "seed": 20261030,
+      "protocol": "channel_dropout",
+      "repetition": 20
+    },
+    {
+      "benchmark": "cmapss",
+      "cohort": "FD004",
+      "architecture": "transformer",
+      "seed": 20261030,
+      "protocol": "gradual_bias",
+      "repetition": 20
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds01_03",
+      "architecture": "transformer",
+      "seed": 20261120,
+      "protocol": "matched",
+      "repetition": 20
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds01_03",
+      "architecture": "transformer",
+      "seed": 20261120,
+      "protocol": "burst_missing",
+      "repetition": 20
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds01_03",
+      "architecture": "transformer",
+      "seed": 20261120,
+      "protocol": "channel_dropout",
+      "repetition": 20
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds01_03",
+      "architecture": "transformer",
+      "seed": 20261120,
+      "protocol": "gradual_bias",
+      "repetition": 20
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds04_07",
+      "architecture": "transformer",
+      "seed": 20261220,
+      "protocol": "matched",
+      "repetition": 20
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds04_07",
+      "architecture": "transformer",
+      "seed": 20261220,
+      "protocol": "burst_missing",
+      "repetition": 20
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds04_07",
+      "architecture": "transformer",
+      "seed": 20261220,
+      "protocol": "channel_dropout",
+      "repetition": 20
+    },
+    {
+      "benchmark": "ncmapss",
+      "cohort": "ds04_07",
+      "architecture": "transformer",
+      "seed": 20261220,
+      "protocol": "gradual_bias",
+      "repetition": 20
+    }
+  ],
+  "candidates": {
+    "xgboost": [
+      {
+        "id": "xgboost_00",
+        "parameters": {
+          "n_estimators": 300,
+          "max_depth": 3,
+          "learning_rate": 0.04,
+          "min_child_weight": 20,
+          "subsample": 0.8,
+          "colsample_bytree": 1.0,
+          "reg_lambda": 10.0
+        }
+      },
+      {
+        "id": "xgboost_01",
+        "parameters": {
+          "n_estimators": 300,
+          "learning_rate": 0.05,
+          "subsample": 0.8,
+          "colsample_bytree": 0.8,
+          "reg_lambda": 1.0,
+          "max_depth": 1,
+          "min_child_weight": 5
+        }
+      },
+      {
+        "id": "xgboost_02",
+        "parameters": {
+          "n_estimators": 300,
+          "learning_rate": 0.05,
+          "subsample": 0.8,
+          "colsample_bytree": 0.8,
+          "reg_lambda": 1.0,
+          "max_depth": 2,
+          "min_child_weight": 5
+        }
+      },
+      {
+        "id": "xgboost_03",
+        "parameters": {
+          "n_estimators": 300,
+          "learning_rate": 0.05,
+          "subsample": 0.8,
+          "colsample_bytree": 0.8,
+          "reg_lambda": 1.0,
+          "max_depth": 3,
+          "min_child_weight": 5
+        }
+      },
+      {
+        "id": "xgboost_04",
+        "parameters": {
+          "n_estimators": 300,
+          "learning_rate": 0.05,
+          "subsample": 0.8,
+          "colsample_bytree": 0.8,
+          "reg_lambda": 1.0,
+          "max_depth": 3,
+          "min_child_weight": 20
+        }
+      },
+      {
+        "id": "xgboost_05",
+        "parameters": {
+          "n_estimators": 300,
+          "learning_rate": 0.05,
+          "subsample": 0.8,
+          "colsample_bytree": 0.8,
+          "reg_lambda": 1.0,
+          "max_depth": 5,
+          "min_child_weight": 5
+        }
+      },
+      {
+        "id": "xgboost_06",
+        "parameters": {
+          "n_estimators": 300,
+          "learning_rate": 0.05,
+          "subsample": 0.8,
+          "colsample_bytree": 0.8,
+          "reg_lambda": 1.0,
+          "max_depth": 5,
+          "min_child_weight": 20
+        }
+      }
+    ],
+    "rf": [
+      {
+        "id": "rf_00",
+        "parameters": {
+          "n_estimators": 100,
+          "max_depth": null,
+          "min_samples_leaf": 1,
+          "max_features": 1.0
+        }
+      },
+      {
+        "id": "rf_01",
+        "parameters": {
+          "n_estimators": 500,
+          "max_depth": 4,
+          "min_samples_leaf": 100,
+          "max_features": "sqrt"
+        }
+      },
+      {
+        "id": "rf_02",
+        "parameters": {
+          "n_estimators": 500,
+          "max_depth": 4,
+          "min_samples_leaf": 20,
+          "max_features": "sqrt"
+        }
+      },
+      {
+        "id": "rf_03",
+        "parameters": {
+          "n_estimators": 500,
+          "max_depth": 6,
+          "min_samples_leaf": 50,
+          "max_features": "sqrt"
+        }
+      },
+      {
+        "id": "rf_04",
+        "parameters": {
+          "n_estimators": 500,
+          "max_depth": 10,
+          "min_samples_leaf": 20,
+          "max_features": "sqrt"
+        }
+      },
+      {
+        "id": "rf_05",
+        "parameters": {
+          "n_estimators": 500,
+          "max_depth": null,
+          "min_samples_leaf": 5,
+          "max_features": "sqrt"
+        }
+      },
+      {
+        "id": "rf_06",
+        "parameters": {
+          "n_estimators": 500,
+          "max_depth": 6,
+          "min_samples_leaf": 20,
+          "max_features": 1.0
+        }
+      }
+    ],
+    "logistic": [
+      {
+        "id": "logistic_00",
+        "parameters": {
+          "C": 0.0001
+        }
+      },
+      {
+        "id": "logistic_01",
+        "parameters": {
+          "C": 0.001
+        }
+      },
+      {
+        "id": "logistic_02",
+        "parameters": {
+          "C": 0.01
+        }
+      },
+      {
+        "id": "logistic_03",
+        "parameters": {
+          "C": 0.1
+        }
+      },
+      {
+        "id": "logistic_04",
+        "parameters": {
+          "C": 1.0
+        }
+      },
+      {
+        "id": "logistic_05",
+        "parameters": {
+          "C": 10.0
+        }
+      },
+      {
+        "id": "logistic_06",
+        "parameters": {
+          "C": 100.0
+        }
+      },
+      {
+        "id": "logistic_07",
+        "parameters": {
+          "C": 1000.0
+        }
+      }
+    ],
+    "knn": [
+      {
+        "id": "knn_00",
+        "parameters": {
+          "n_neighbors": 15,
+          "weights": "uniform"
+        }
+      },
+      {
+        "id": "knn_01",
+        "parameters": {
+          "n_neighbors": 15,
+          "weights": "distance"
+        }
+      },
+      {
+        "id": "knn_02",
+        "parameters": {
+          "n_neighbors": 31,
+          "weights": "uniform"
+        }
+      },
+      {
+        "id": "knn_03",
+        "parameters": {
+          "n_neighbors": 31,
+          "weights": "distance"
+        }
+      },
+      {
+        "id": "knn_04",
+        "parameters": {
+          "n_neighbors": 63,
+          "weights": "uniform"
+        }
+      },
+      {
+        "id": "knn_05",
+        "parameters": {
+          "n_neighbors": 63,
+          "weights": "distance"
+        }
+      },
+      {
+        "id": "knn_06",
+        "parameters": {
+          "n_neighbors": 127,
+          "weights": "uniform"
+        }
+      },
+      {
+        "id": "knn_07",
+        "parameters": {
+          "n_neighbors": 127,
+          "weights": "distance"
+        }
+      },
+      {
+        "id": "knn_08",
+        "parameters": {
+          "n_neighbors": 255,
+          "weights": "uniform"
+        }
+      },
+      {
+        "id": "knn_09",
+        "parameters": {
+          "n_neighbors": 255,
+          "weights": "distance"
+        }
+      },
+      {
+        "id": "knn_10",
+        "parameters": {
+          "n_neighbors": 511,
+          "weights": "uniform"
+        }
+      },
+      {
+        "id": "knn_11",
+        "parameters": {
+          "n_neighbors": 511,
+          "weights": "distance"
+        }
+      },
+      {
+        "id": "knn_12",
+        "parameters": {
+          "n_neighbors": 1023,
+          "weights": "uniform"
+        }
+      },
+      {
+        "id": "knn_13",
+        "parameters": {
+          "n_neighbors": 1023,
+          "weights": "distance"
+        }
+      }
+    ]
+  },
+  "primary_learners": {
+    "shr": "xgboost",
+    "epsilon": "xgboost",
+    "rcr": "xgboost",
+    "ccr": "rf"
+  },
+  "selection": "Within each outer repetition/cohort/predictor/protocol, minimize validation mean normalized partial AURC over 70%-90% coverage at lambda=20. SHR uses complete moment bounds during validation and evaluation. Ties use candidate ID.",
+  "controls": "Controlled ablations inherit the full SHR selected XGBoost configuration; vary only the named component and capacity. Reference gate remains rho0=.01 and is not tuned to test results.",
+  "prescribed_baselines": "Linear LossRej is unregularized OLS with no regularization search. SelRej architecture and fitting objective remain fixed, with validation-selected learning rate and training duration.",
+  "penalty": "Choose heads once at lambda=20; vary lambda and alpha without refitting for sensitivity.",
+  "scope": "Exploratory comparison on previously studied benchmarks; no independent confirmatory trial.",
+  "reuse": "Within a configuration, all selectors use the same fitted RUL predictors and queries; repeat-level partitions and validation candidate grids are specified here."
+}

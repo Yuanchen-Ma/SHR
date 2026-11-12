@@ -1,0 +1,5 @@
+# Benchmark-specific predictor settings.
+cmapss:
+  condition_clusters: {FD001: 1, FD002: 6, FD003: 1, FD004: 6}
+  dropout: {tcn: 0.20, transformer: 0.10}
+transformer: {d_model: 64, nhead: 4, num_layers: 2, dim_feedforward: 256}
